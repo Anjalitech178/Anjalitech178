@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Anjali 
 
-<!--
-**Anjalitech178/Anjalitech178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Graduate | Web developer | 
+India
 
-Here are some ideas to get you started:
+I'm passionate about building clean and user-friendly web applications.
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML | CSS | JavaScript
+- PHP | MySQL
+- AJAX
+- TOOLS: VS code, XAMPP
+
+##Connect With Me
+- Email:
+  anjalimandhotra2@gmail.com
+  ----
+  *Thanks for visiting my profile!
+  Feel free to check out my projects.*
+ 
+
+
+
